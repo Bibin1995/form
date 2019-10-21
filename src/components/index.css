@@ -1,0 +1,15 @@
+.ant-form {
+    -webkit-box-sizing: border-box;
+    box-sizing: unset;
+    margin-top: 10px;
+    margin-left: 405px;
+    margin-right: 405px;
+    padding: 0;
+    color: rgba(0, 0, 0, 0.65);
+    font-size: 14px;
+    font-variant: tabular-nums;
+    line-height: 1.5;
+    list-style: none;
+    -webkit-font-feature-settings: 'tnum';
+    font-feature-settings: 'tnum', "tnum";
+}
